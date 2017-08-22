@@ -13,4 +13,4 @@ http://naotu.baidu.com/file/8a122a356d4653adc2e11536d23754f2?token=112157a781bff
 密码: xwBq
 
 
-![image](https://github.com/vsery/KnowledgeTree/raw/master/iamges/Knowledgetree.png)
+![image](https://github.com/vsery/KnowledgeTree/blob/master/iamges/Knowledgetree.png)
